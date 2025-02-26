@@ -33,9 +33,11 @@
             "Author": "タバスコ",
             "Package": "Tabasco Cosmetics",
             "Name": "寝てる...",
-            "Adaptive": True,
-            "BehindHat": True,
-            "FPS": 2,
+            "Bounce": False,
+            "Adaptive": False,
+            "IsSkinny": False,
+            "HideHands": True,       
+            "FPS": 4,
             "Main": {
                 "Address": "Sleepy_Move.png",
                 "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
@@ -54,9 +56,9 @@
         }
 		{
             "Author": "タバスコ",
-            "Package": "Tabasco Cosmeticsz",
+            "Package": "Tabasco Cosmetics",
             "Name": "マウスを合わせる",
-            "Adaptive": True,
+            "Adaptive": False,
             "BehindHat": False,
             "FPS": 1,
             "Main": {
