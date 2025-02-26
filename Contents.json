@@ -4,17 +4,17 @@
 		{
 			"Main" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "htMw7c_Main.png",
+				"Address" : "Sleepy_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "htMw7c_Climb.png",
+				"Address" : "Sleepy_Climb.png",
 				"ExIsFront" : False
 			},
 			"ClimbDown" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "htMw7c_ClimbDown.png",
+				"Address" : "Sleepy_ClimbDown.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
