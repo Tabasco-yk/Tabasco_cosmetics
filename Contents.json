@@ -34,9 +34,9 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "Tabasco_cosmetic",
+			"Package" : "5",
 			"Format" : "Tabasco_cosmetic",
-			"Priority" : 5
+			"Priority" : 1
 		}
 	]
 }
