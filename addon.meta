@@ -1,0 +1,11 @@
+{
+	"Id" : "1",
+	"Name" : "Tabasco_cosmetic",
+	"Author" : "Tabasco",
+	"Description" : "タバスコが適当に書いたコスメティック。",
+	"Version" : "1.0",
+	"Build" : 0,
+	"Dependency" : [
+	],
+	"Hidden" : False
+}

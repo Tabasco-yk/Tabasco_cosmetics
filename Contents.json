@@ -1,0 +1,37 @@
+{
+	"BundleName" : null,
+	"Hats" : [
+		{
+			"Main" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "htMw7c_Main.png",
+				"ExIsFront" : False
+			},
+			"Climb" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "htMw7c_Climb.png",
+				"ExIsFront" : False
+			},
+			"ClimbDown" : {
+				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
+				"Address" : "htMw7c_ClimbDown.png",
+				"ExIsFront" : False
+			},
+			"Bounce" : False,
+			"Adaptive" : True,
+			"HideHands" : False,
+			"IsSkinny" : False,
+			"SeekerCostume" : True,
+			"FPS" : 1,
+			"Name" : "ねむい\.\.\.",
+			"Author" : "タバスコ",
+			"Package" : "None"
+		}
+	],
+	"Visors" : [
+	],
+	"Nameplates" : [
+	],
+	"Packages" : [
+	]
+}
