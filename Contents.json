@@ -25,7 +25,7 @@
 			"FPS" : 1,
 			"Name" : "ねむい\.\.\.",
 			"Author" : "タバスコ",
-			"Package" : "None"
+			"Package" : "5"
 		}
 	],
 	"Visors" : [
@@ -33,5 +33,10 @@
 	"Nameplates" : [
 	],
 	"Packages" : [
+		{
+			"Package": "5",
+			"Format": "Tabasco_cosmetic",
+			"Priority": 1
+		}
 	]
 }
