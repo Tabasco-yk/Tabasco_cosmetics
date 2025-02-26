@@ -25,13 +25,13 @@
 			"FPS" : 1,
 			"Name" : "ねむい\.\.\.",
 			"Author" : "タバスコ",
-			"Package" : "5"
+			"Package" : "Tabasco Cosmetics"
 		}
 	],
 	"Visors" : [
 		 {
             "Author": "タバスコ",
-            "Package": "5",
+            "Package": "Tabasco Cosmetics",
             "Name": "寝てる...",
             "Adaptive": True,
             "BehindHat": True,
@@ -51,7 +51,7 @@
         }
 		{
             "Author": "タバスコ",
-            "Package": "5",
+            "Package": "Tabasco Cosmeticsz",
             "Name": "マウスを合わせる",
             "Adaptive": True,
             "BehindHat": False,
@@ -70,9 +70,9 @@
 	],
 	"Packages" : [
 		{
-			"Package" : "5",
+			"Package" : "Tabasco Cosmetics",
 			"Format" : "Tabasco Cosmetics",
-			"Priority" : 1
+			"Priority" : "5"
 		}
 	]
 }
