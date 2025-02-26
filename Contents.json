@@ -39,14 +39,17 @@
             "Main": {
                 "Address": "Sleepy_Move.png",
                 "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+		"Length":"7",
             }
             "Move": {
                 "Address": "Sleepy_Move.png",
                 "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+		"Length":"7",
             },
             "Climb": {
                 "Address": "Sleepy_Move.png",
                 "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+		"Length":"7",
             }
         }
 		{
