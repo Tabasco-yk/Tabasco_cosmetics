@@ -29,6 +29,42 @@
 		}
 	],
 	"Visors" : [
+		 {
+            "Author": "タバスコ",
+            "Package": "5",
+            "Name": "寝てる...",
+            "Adaptive": True,
+            "BehindHat": True,
+            "FPS": 2,
+            "Main": {
+                "Address": "Sleepy_Move.png",
+                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+            }
+            "Move": {
+                "Address": "Sleepy_Move.png",
+                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+            },
+            "Climb": {
+                "Address": "Sleepy_Move.png",
+                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+            }
+        }
+		{
+            "Author": "タバスコ",
+            "Package": "5",
+            "Name": "マウスを合わせる",
+            "Adaptive": True,
+            "BehindHat": False,
+            "FPS": 2,
+            "Main": {
+                "Address": "Mouse",
+                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+            }
+            "Move": {
+                "Address": "Sleepy_Move.png",
+                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
+            }
+        }
 	],
 	"Nameplates" : [
 	],
