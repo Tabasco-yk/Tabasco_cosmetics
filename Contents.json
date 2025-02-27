@@ -4,17 +4,12 @@
 		{
 			"Main" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "Sleepy_Main.png",
+				"Address" : "eX5Yq4Hkb_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "Sleepy_Climb.png",
-				"ExIsFront" : False
-			},
-			"ClimbDown" : {
-				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "Sleepy_ClimbDown.png",
+				"Address" : "eX5Yq4Hkb_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -27,48 +22,23 @@
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics"
 		}
-		 {
-            "Author": "タバスコ",
-            "Package": "Tabasco Cosmetics",
-            "Name": "寝てる...",
-            "Bounce": False,
-            "Adaptive": True,
-            "IsSkinny": False,
-            "HideHands": True,        
-            "FPS": 13,
-            "Main": {
-                "Address": "Sleepy_Move.png",
-                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
-				"Length": 7,
-            },
-            "Move": {
-                "Address": "Sleepy_Move.png",
-                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
-                "Length": 7, 
-            },
-			"Climb": {
-                "Address": "Sleepy_Move.png",
-                "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
-                "Length": 7, 
-            },
-        }
+	],
 	"Visors" : [
-		 {
-            "Author": "タバスコ",
-            "Package": "Tabasco Cosmetics",
-            "Name": "マウスを合わせる",
-            "Adaptive": False,
-            "BehindHat": False,
-            "FPS": 1,
-            "Main": {
-                "Address": "Mouse.png",
-                "Hash": "fb8ab111bad13e61dbbedb3a572c764d"
-            }
-            "Move": {
-                "Address": "Mouse.png",
-                "Hash": "fb8ab111bad13e61dbbedb3a572c764d"
-            }
-        }
+		{
+			"Main" : {
+				"Hash" : "fb8ab111bad13e61dbbedb3a572c764d",
+				"Address" : "Q23LlzIjc_Main.png",
+				"ExIsFront" : False
+			},
+			"Adaptive" : False,
+			"BehindHat" : False,
+			"BackmostBack" : False,
+			"Fixed" : False,
+			"FPS" : 1,
+			"Name" : "カーソルを合わせる",
+			"Author" : "タバスコ",
+			"Package" : "Tabasco Cosmetics"
+		}
 	],
 	"Nameplates" : [
 	],
@@ -76,7 +46,7 @@
 		{
 			"Package" : "Tabasco Cosmetics",
 			"Format" : "Tabasco Cosmetics",
-			"Priority" : "5"
+			"Priority" : 1
 		}
 	]
 }
