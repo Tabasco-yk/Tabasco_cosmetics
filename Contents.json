@@ -2,12 +2,12 @@
 	"BundleName" : null,
 	"Hats" : [
 		{
-			"Main" : {
+		"Main" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
 				"Address" : "Sleepy_Main.png",
 				"ExIsFront" : False
 			},
-			"Climb" : {
+		"Climb" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
 				"Address" : "Sleepy_Climb.png",
 				"ExIsFront" : False
@@ -27,7 +27,7 @@
 			"Author" : "タバスコ",
 			"Package" : "Tabasco Cosmetics"
 		}
-		 {
+		{
             "Author": "タバスコ",
             "Package": "Tabasco Cosmetics",
             "Name": "寝てる...",
@@ -50,9 +50,9 @@
                 "Address": "Sleepy_Move.png",
                 "Hash": "af5ab631993e62d1d6da967ff8e7be2a"
                 "Length": 7, 
-            },
+            }
         }
-	]
+	],
 	"Visors" : [
 		 {
             "Author": "タバスコ",
@@ -64,7 +64,7 @@
             "Main": {
                 "Address": "Mouse.png",
                 "Hash": "fb8ab111bad13e61dbbedb3a572c764d"
-            }
+            },
             "Move": {
                 "Address": "Mouse.png",
                 "Hash": "fb8ab111bad13e61dbbedb3a572c764d"
