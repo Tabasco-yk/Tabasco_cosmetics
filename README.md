@@ -9,4 +9,3 @@
 ・二次配布</br>
 ・その他迷惑行為</br>
 考えてね
-</br>連絡はDiscordまで。</br>tabasco_1410 または [こちら（タバスコのサーバー）](https://discord.gg/DhjSAwAreU)
