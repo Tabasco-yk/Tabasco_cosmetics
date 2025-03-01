@@ -9,5 +9,4 @@
 ・二次配布</br>
 ・その他迷惑行為</br>
 考えてね
-</br>連絡はDiscordまで。</br>tabasco_1410 または [こちら](https://discord.gg/DhjSAwAreU)
-![Role_Tabasco](https://github.com/user-attachments/assets/3cc310f4-b23b-4a5a-8d93-dff827510539)
+</br>連絡はDiscordまで。</br>tabasco_1410 または [こちら（タバスコのサーバー）](https://discord.gg/DhjSAwAreU)
