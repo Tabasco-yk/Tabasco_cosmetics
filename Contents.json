@@ -64,7 +64,7 @@
 		{
 			"Plate" : {
 				"Hash" : "b7565d78d11745a64b14c27ee1515e7e",
-				"Address" : "3ZtqmjxMb_Plate.png",
+				"Address" : "Genkou_Plate.png",
 				"ExIsFront" : False
 			},
 			"AdaptiveInFront" : True,
@@ -75,7 +75,7 @@
 		{
 			"Plate" : {
 				"Hash" : "7c807a17a48ba3617ae899f6cff22973",
-				"Address" : "TbvrpS1hc_Plate.png",
+				"Address" : "Jester_Plate.png",
 				"ExIsFront" : False
 			},
 			"AdaptiveInFront" : True,
@@ -86,7 +86,7 @@
 		{
 			"Plate" : {
 				"Hash" : "d65e0d090d2568c9677a906dbecbc387",
-				"Address" : "ubONi9Z_Plate.png",
+				"Address" : "Asetteru_Plate.png",
 				"ExIsFront" : False
 			},
 			"AdaptiveInFront" : True,
@@ -97,7 +97,7 @@
 		{
 			"Plate" : {
 				"Hash" : "dd27afbb08ae10d320461b6ef6cb44f1",
-				"Address" : "0LWU1405b_Plate.png",
+				"Address" : "Raidar_line_Plate.png",
 				"ExIsFront" : False
 			},
 			"AdaptiveInFront" : True,
@@ -108,7 +108,7 @@
 		{
 			"Adaptive" : {
 				"Hash" : "85df8024893803fa8f9352f9ee761b4d",
-				"Address" : "hA5AkBHK_Adaptive.png",
+				"Address" : "Player_Color_Adaptive.png",
 				"ExIsFront" : False
 			},
 			"AdaptiveInFront" : True,
@@ -121,7 +121,7 @@
 		{
 			"Package" : "Tabasco Cosmetics",
 			"Format" : "Tabasco Cosmetics",
-			"Priority" : 1
+			"Priority" : 3
 		}
 	]
 }
