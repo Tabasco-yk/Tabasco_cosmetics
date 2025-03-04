@@ -1,0 +1,83 @@
+{
+	"OwningCostumes" : [
+		{
+			"EntryId" : 17,
+			"Title" : "PlantPlanetCosmicube",
+			"Url" : "Nocolor-mercury/NoS_add-on_PlantPlanetCosmicube/main",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 16,
+			"Title" : "YoranCosmetics",
+			"Url" : "Yoran-Furan/Yoran_Costumes_N/main",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 12,
+			"Title" : "Midohat",
+			"Url" : "Mido-otosae/Midohat-For-Nos/main",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 7,
+			"Title" : "Mememura Cosmicube",
+			"Url" : "catudon1276/Mememura-Hats/main",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 8,
+			"Title" : "Arujan Cosmicube",
+			"Url" : "catudon1276/Arujan-Cosmicube/main",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 3,
+			"Title" : "YJ*Cosmetics",
+			"Url" : "Ujet222/YJCosmetics_N/main",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 19,
+			"Title" : "Tabasco Cosmetics",
+			"Url" : "Tabasco-yk/Tabasco_cosmetics/main",
+			"AutoUpdate" : False
+		}
+	],
+	"OwningAddons" : [
+		{
+			"EntryId" : 18,
+			"Title" : "TianMeng's Roles",
+			"Url" : "TianMengLucky/NebulaAddons",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 14,
+			"Title" : "UsefulModifier",
+			"Url" : "limiter6/UsefulModifier",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 9,
+			"Title" : "Colors from SNR",
+			"Url" : "Glaceon-471/ColorsFormSNRAddon",
+			"AutoUpdate" : False
+		},
+		{
+			"EntryId" : 4,
+			"Title" : "SuperNewRoles Language Pack",
+			"Url" : "Dolly1016/SNRLanguagePack",
+			"AutoUpdate" : True
+		}
+	],
+	"DevCostumes" : [
+		{
+			"Key" : "1BxHWG5CWhCkGY7vYyBbUO1QGjfYraoF9DjwqGyrNjuUPD8yQ0SOXUIq9biRucv7",
+			"EntryId" : 19,
+			"Title" : "Tabasco_cosmetics",
+			"Url" : "Tabasco-yk/Tabasco_cosmetics/main",
+			"AutoUpdate" : False
+		}
+	],
+	"DevAddons" : [
+	]
+}
