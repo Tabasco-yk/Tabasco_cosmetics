@@ -4,12 +4,12 @@
 		{
 			"Main" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "eX5Yq4Hkb_Main.png",
+				"Address" : "Sleepy_Main.png",
 				"ExIsFront" : False
 			},
 			"Climb" : {
 				"Hash" : "d8b0d1e86a336476a0b47186ce643e88",
-				"Address" : "eX5Yq4Hkb_Climb.png",
+				"Address" : "Sleepy_Climb.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
@@ -25,7 +25,7 @@
 		{
 			"Main" : {
 				"Hash" : "6d9db1568b63416e0a8c3943a219cd61",
-				"Address" : "Wwf_Main.png",
+				"Address" : "Umbrella_Main.png",
 				"ExIsFront" : False
 			},
 			"Bounce" : False,
