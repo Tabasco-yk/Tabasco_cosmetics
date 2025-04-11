@@ -33,12 +33,6 @@
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
-			"Climb" : {
-				"Hash" : "de869d7bd67bc3190f117395b5059f74",
-				"Address" : "odLhCZijb_Climb.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
 			"Bounce" : False,
 			"Adaptive" : False,
 			"HideHands" : False,
@@ -74,12 +68,6 @@
 			"Main" : {
 				"Hash" : "6d9db1568b63416e0a8c3943a219cd61",
 				"Address" : "m6jMqHus_Main.png",
-				"ExIsFront" : False,
-				"MaskAddress" : null
-			},
-			"Climb" : {
-				"Hash" : "6d9db1568b63416e0a8c3943a219cd61",
-				"Address" : "m6jMqHus_Climb.png",
 				"ExIsFront" : False,
 				"MaskAddress" : null
 			},
